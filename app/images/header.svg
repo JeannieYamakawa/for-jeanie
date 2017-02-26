@@ -1,0 +1,13 @@
+<!-- <?xml version="1.0" standalone="no"?> -->
+<?xml-stylesheet type="text/css" href="../styles/styles.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="860" viewBox="0 0 1140 860">
+  <g transform="translate(196 272)">
+    <polygon points="0 171.178 167.606 171.178 234.648 339 67.042 339" transform="matrix(-1 0 0 1 234.648 0)"/>
+    <polygon points="201.127 0 368.732 0 435.775 167.822 268.169 167.822"/>
+    <polygon class="red" points="67.042 0 234.648 0 167.606 167.822 0 167.822" transform="matrix(-1 0 0 1 234.648 0)"/>
+    <polygon class="red" points="268.169 171.178 435.775 171.178 368.732 339 201.127 339"/>
+    <text id="cf-font">
+      <tspan x="494" y="177">sketch is fun</tspan>
+    </text>
+  </g>
+</svg>
