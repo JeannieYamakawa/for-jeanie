@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="3000" viewBox="0 0 3000 3000">
+  <g fill="#000000" fill-rule="evenodd" transform="translate(638 913)">
+    <polygon fill-rule="nonzero" points="160 565.039 713.366 565.039 934.711 1119 381.345 1119" transform="matrix(-1 0 0 1 1094.71 0)"/>
+    <polygon fill-rule="nonzero" points="824.038 0 1377.401 0 1598.749 553.961 1045.383 553.961"/>
+    <polygon fill-rule="nonzero" points="381.345 0 934.711 0 713.366 553.961 160 553.961" transform="matrix(-1 0 0 1 1094.71 0)"/>
+    <polygon fill-rule="nonzero" points="1045.383 565.039 1598.749 565.039 1377.401 1119 824.038 1119"/>
+    <text transform="translate(.984 1318.345)" font-size="288" font-family="Helvetica">
+      <tspan x="0" y="280">sketch is fun</tspan>
+    </text>
+  </g>
+</svg>
